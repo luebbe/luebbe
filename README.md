@@ -5,6 +5,9 @@
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=luebbe&layout=compact)](https://github.com/luebbe)
 
 This is misleading, since I'm coding in Delphi 95% of the time 😄
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luebbe&theme=dracula)  
+
 <!--
 **luebbe/luebbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
