@@ -1,15 +1,16 @@
 # Trying out the fancy github stats
 
-[![Lübbe's github stats](https://github-readme-stats.vercel.app/api?username=luebbe)](https://github.com/luebbe)
-
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=luebbe&layout=compact)](https://github.com/luebbe)
+[![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luebbe&theme=vue)](https://github.com/luebbe)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luebbe&theme=vue)](https://github.com/luebbe)
+[![Top Languagess](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luebbe&theme=vue)](https://github.com/luebbe)
 
 This is misleading, since I'm coding in Delphi 95% of the time 😄
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luebbe&theme=dracula)  
 
 <!--
 **luebbe/luebbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=luebbe&theme=vue)](https://github.com/luebbe)
 
 Here are some ideas to get you started:
 
